@@ -24,7 +24,7 @@ Log file is located in Forgecloner named observe.log.
 ##Formats
 
 ####Usage:
-![alt text](https://github.com/cvendome/ForgeCloner/blob/master/image/usage.png "Usage")
+![alt text](https://github.com/indigowhale33/ForgeScrapy/blob/master/image/usage.png "Usage")
 ####Example:
 parse java based projects each with reviews and tickets, and number of parsing ticket limit is 10000.
 ```
@@ -35,6 +35,6 @@ outputfile=refined.xml
 ```
 
 ####Output XML Structure:
-![alt text](https://github.com/cvendome/ForgeCloner/blob/master/image/xmlformat.png "XmlFormat")
+![alt text](https://github.com/indigowhale33/ForgeScrapy/blob/master/image/xmlformat.png "XmlFormat")
 
 
