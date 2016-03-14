@@ -1,5 +1,8 @@
 # ForgeCloner
 
+* Deleted the spider file which contains the main functional code. Exclusive for the research of Chris Vendome.
+* Contribution for research of Chris Vendome, Ph.D Candidate at William and Mary
+* 
 First in the ForgeCloner folder, install the prerequisites which include python-dev, scrapy etc. by
 ```
 $chmod 755 install.sh
