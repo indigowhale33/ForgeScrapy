@@ -1,0 +1,4 @@
+arg=-a language=java
+rawoutput=traw.xml
+loglevel=
+outputfile=tout.xml

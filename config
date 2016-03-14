@@ -1,0 +1,4 @@
+arg=-a language=java -a review=y -a ticket=y -a tlimit=1000
+rawoutput=trawt.xml
+loglevel=ERROR
+outputfile=toutt.xml
